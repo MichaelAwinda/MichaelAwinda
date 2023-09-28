@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/michaelawinda" target="blank"><img src="https://img.shields.io/twitter/follow/michaelawinda?logo=twitter&style=for-the-badge" alt="michaelawinda" /></a> </p>
 
-- 📫 Reach me at **michaelawinda1@gmail.com**
+📫 Reach me at **michaelawinda1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
